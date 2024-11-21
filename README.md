@@ -24,7 +24,7 @@ This repository documents the successful configuration of a **Zimbra Mail Server
 ### 4. DNS Reverse and Forward Zones
 ![DNS Configuration Screenshot](./res/dns_forward.png)
 
-![DNS Configuration Screenshot](./res/dns_forward.png)
+![DNS Configuration Screenshot](./res/dns_reverse.png)
 
 
 ### 5. Thunderbird Integration
