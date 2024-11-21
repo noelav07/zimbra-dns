@@ -1,0 +1,413 @@
+Package: zimbra-apache
+Version: 8.8.15.GA.4179.UBUNTU20.64
+Architecture: amd64
+Maintainer: build@zimbra.com
+Depends: zimbra-core, zimbra-apache-components
+Filename: ./zimbra-apache_8.8.15.GA.4179.UBUNTU20.64_amd64.deb
+Size: 20704
+MD5sum: e8bdb5bf324d08bb408fbc14860bc2bd
+SHA1: 99f82340f719d41eaaad60167d5272495a1f4938
+SHA256: 00b7acb2d8dccfc5f55e21b6652c04037d10eff812ce532c737e1460e606eca5
+Section: Mail
+Priority: optional
+Description: Best email money can buy
+
+Package: zimbra-common-core-jar
+Version: 8.8.15.1634917408-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 14732
+Depends: zimbra-core-components
+Replaces: zimbra-core
+Filename: ./zimbra-common-core-jar_8.8.15.1634917408-1.u20_amd64.deb
+Size: 13927824
+MD5sum: 4ecfb8f651d4515c36c174817a118280
+SHA1: 4ae35d1c7d283428d38b991db59abf683e7b8685
+SHA256: c4d5889e9d0ac441e61fd94d674a6a410c20a4c83b8aefe6f7714f47ad6bb54a
+Section: mail
+Priority: optional
+Description: Zimbra Core Jars
+
+Package: zimbra-common-core-libs
+Version: 8.8.15.1626439528-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 76619
+Depends: zimbra-core-components
+Replaces: zimbra-core
+Filename: ./zimbra-common-core-libs_8.8.15.1626439528-1.u20_amd64.deb
+Size: 69956060
+MD5sum: 056b8d46867d8039774ec5a3b21dc175
+SHA1: 11c7b3e19f2ea0f62af88d3dd0bfed114deb904d
+SHA256: a40265f840aebd3c6e66e7b2269b91a5c3b3d8d725caca68f9df0f0dcd5da7c4
+Section: mail
+Priority: optional
+Description: Replace zimbra core libs
+
+Package: zimbra-common-mbox-conf
+Version: 8.8.15.1634917408-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 30
+Depends: zimbra-core-components
+Replaces: zimbra-core
+Filename: ./zimbra-common-mbox-conf_8.8.15.1634917408-1.u20_amd64.deb
+Size: 3932
+MD5sum: 65fc2c634cf726cf233c9646f224d921
+SHA1: bacbd535259e8ec30b0ea21329d27e3c6b67cf76
+SHA256: d3e2d7016c24d619491adc6ae820cba2eee151427489e0e6c98cbb1184ff82dd
+Section: mail
+Priority: optional
+Description: Zimbra Core Mailbox Configuration
+
+Package: zimbra-common-mbox-conf-attrs
+Version: 8.8.15.1571124020-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 607
+Depends: zimbra-core-components
+Replaces: zimbra-core
+Filename: ./zimbra-common-mbox-conf-attrs_8.8.15.1571124020-1.u20_amd64.deb
+Size: 81440
+MD5sum: e265e6dd590a8957efabfe0baea1fa73
+SHA1: e6cf4c233443f4c29a48d9aea0f033f661c5f7df
+SHA256: b51669751516b505321be7175627de89466788700df534ab6976aad12c152a43
+Section: mail
+Priority: optional
+Description: Zimbra Core Mailbox Attributes Configuration
+
+Package: zimbra-common-mbox-conf-msgs
+Version: 8.8.15.1556130968-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 5300
+Depends: zimbra-core-components
+Replaces: zimbra-core
+Filename: ./zimbra-common-mbox-conf-msgs_8.8.15.1556130968-1.u20_amd64.deb
+Size: 514564
+MD5sum: bf7ae1431478f8b4cbab79bf386a2bdc
+SHA1: 8cd74a14379493c099abfc7d3daa8253f6b6af2c
+SHA256: c8c614780179da6e09d116aecd5c76d82f8abacb16a6ddf34f6c4c11c284cf02
+Section: mail
+Priority: optional
+Description: Zimbra Core Mailbox Message Locale Files
+
+Package: zimbra-common-mbox-conf-rights
+Version: 8.8.15.1487328490-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 231
+Depends: zimbra-core-components
+Replaces: zimbra-core
+Filename: ./zimbra-common-mbox-conf-rights_8.8.15.1487328490-1.u20_amd64.deb
+Size: 20300
+MD5sum: 2f7884a8574f46c9acf14aad4cc4b57a
+SHA1: b1c1579f836bd095f7171f790aba9649c4602c61
+SHA256: b9f78cb376107d9e94302ae9558904e5bb9931932e7c25d3ffb73946ff7ea72a
+Section: mail
+Priority: optional
+Description: Zimbra Core Mailbox Rights Configuration
+
+Package: zimbra-common-mbox-db
+Version: 8.8.15.1634917408-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 13
+Depends: zimbra-core-components
+Replaces: zimbra-core
+Filename: ./zimbra-common-mbox-db_8.8.15.1634917408-1.u20_amd64.deb
+Size: 1464
+MD5sum: 8bcb193396739a9d85aa4d86675dab35
+SHA1: 6e8889685ce07e244b97a4f5dd7b811edbb02c3f
+SHA256: 994743369b95392bd9217f9c96269ce7595cb83217106bb43c50dcc400994d3c
+Section: mail
+Priority: optional
+Description: Zimbra Core Mailbox DB Files
+
+Package: zimbra-common-mbox-docs
+Version: 8.8.15.1552677786-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 1024
+Depends: zimbra-core-components
+Replaces: zimbra-core
+Filename: ./zimbra-common-mbox-docs_8.8.15.1552677786-1.u20_amd64.deb
+Size: 225560
+MD5sum: 0198081a91f5d1af082f30897cbd6fb0
+SHA1: 546b7ab48014e2939d3be59482785c30b467168a
+SHA256: 07f49e7db14159be99f53d89165a3299d2d8bfbde1ce4a92ba31fa504671dfb2
+Section: mail
+Priority: optional
+Description: Zimbra Core Mailbox Docs
+
+Package: zimbra-common-mbox-native-lib
+Version: 8.8.15.1521095672-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 35
+Depends: libc6 (>= 2.4), zimbra-core-components
+Replaces: zimbra-core
+Filename: ./zimbra-common-mbox-native-lib_8.8.15.1521095672-1.u20_amd64.deb
+Size: 5940
+MD5sum: 178d2e15415c278744b6cb8112b9556e
+SHA1: 018bd6535cce3536aacb708af6033e0868194379
+SHA256: 03f9032dd6afbfac457844d80f2fcc997457e3215ccfcf31eb0d31455dd951f6
+Section: mail
+Priority: optional
+Description: Zimbra Core Mailbox Native Libs
+
+Package: zimbra-core
+Version: 8.8.15.GA.4179.UBUNTU20.64
+Architecture: amd64
+Maintainer: build@zimbra.com
+Depends: zimbra-core-components, zimbra-timezone-data (>= 1.0.1+1510156506-1.u20) , zimbra-common-mbox-conf-attrs, zimbra-common-core-jar, zimbra-common-mbox-conf-rights, zimbra-common-core-libs, zimbra-common-mbox-conf-msgs, zimbra-common-mbox-db, zimbra-common-mbox-docs, zimbra-common-mbox-native-lib, zimbra-common-mbox-conf
+Filename: ./zimbra-core_8.8.15.GA.4179.UBUNTU20.64_amd64.deb
+Size: 1189728
+MD5sum: a4c2ac3e80a47477323e119b6ca2fa33
+SHA1: 26209d6ef80ee0a83396d4a2bed4b22c806635cf
+SHA256: 35948e0471e8c6dd3ec670ac569db4e3049baf047ee001642c37b52ff461aa7d
+Section: mail
+Priority: optional
+Description: Best email money can buy
+
+Package: zimbra-dnscache
+Version: 8.8.15.GA.4179.UBUNTU20.64
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <packaging-devel@zimbra.com>
+Depends: zimbra-core, zimbra-dnscache-components
+Filename: ./zimbra-dnscache_8.8.15.GA.4179.UBUNTU20.64_amd64.deb
+Size: 1940
+MD5sum: 6861a640b0c4e21cb936d4245a438778
+SHA1: 8e204498d2985a3fa698a56074bab98d2bc93443
+SHA256: 753b3e80bb400860a5bfb2749e12981754061c0f9339d389feabc3cc4b33b1fa
+Section: Mail
+Priority: optional
+Description: Best email money can buy
+
+Package: zimbra-imapd
+Version: 8.8.15.GA.4179.UBUNTU20.64
+Architecture: amd64
+Maintainer: build@zimbra.com
+Depends: zimbra-core
+Filename: ./zimbra-imapd_8.8.15.GA.4179.UBUNTU20.64_amd64.deb
+Size: 178360
+MD5sum: 062b76bb42acbb381ba5a55a6af0f5a9
+SHA1: 533d0ecbd05d773cb0f7bee5d7dae57ea9e2c346
+SHA256: dd7ebf8108c76c3e14d7ff88ffe7bbcd6db0f7c16d77e5342856786adeb0407b
+Section: Mail
+Priority: optional
+Description: Best email money can buy
+
+Package: zimbra-ldap
+Version: 8.8.15.GA.4179.UBUNTU20.64
+Architecture: amd64
+Maintainer: build@zimbra.com
+Depends: zimbra-core, zimbra-ldap-components
+Filename: ./zimbra-ldap_8.8.15.GA.4179.UBUNTU20.64_amd64.deb
+Size: 134020
+MD5sum: 6de0d4fc03a3c683b2e7886ab4f5865b
+SHA1: 1b4db093459a2776785b2c406dfc289b3fbe2d39
+SHA256: 4ae8f249df4966eca9c58dbe6f6b624f8c3e9430fefdb44b3fcb003fa7f3638e
+Section: Mail
+Priority: optional
+Description: Best email money can buy
+
+Package: zimbra-logger
+Version: 8.8.15.GA.4179.UBUNTU20.64
+Architecture: amd64
+Maintainer: build@zimbra.com
+Depends: zimbra-core
+Filename: ./zimbra-logger_8.8.15.GA.4179.UBUNTU20.64_amd64.deb
+Size: 1312
+MD5sum: 404929a8e335ad194fc010f99ff777db
+SHA1: 9e7cc895f1aa9d9c9af9b8a16c97c2e47fe89e23
+SHA256: 3db0de603dd2d157403e5c48edd995c25f7e5661dacf6f771d015833d41a8c91
+Section: Mail
+Priority: optional
+Description: Best email money can buy
+
+Package: zimbra-mbox-admin-console-war
+Version: 8.8.15.1624007059-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 56128
+Depends: zimbra-store-components
+Conflicts: zimbra-mbox-admin-common
+Replaces: zimbra-mbox-admin-common, zimbra-store
+Filename: ./zimbra-mbox-admin-console-war_8.8.15.1624007059-1.u20_amd64.deb
+Size: 10148260
+MD5sum: 0855e8e381d5c30a61dd184d9dafe335
+SHA1: e9a32795e56e4548c5f40d8498f63281b807c006
+SHA256: 0cdf2d58eed137c63943560f0f7e53cc4012bd67809093944e05ed75a8715e73
+Section: mail
+Priority: optional
+Description: Zimbra Admin Console War
+
+Package: zimbra-mbox-conf
+Version: 8.8.15.1597662783-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 211
+Depends: zimbra-store-components
+Replaces: zimbra-store
+Filename: ./zimbra-mbox-conf_8.8.15.1597662783-1.u20_amd64.deb
+Size: 29788
+MD5sum: cf601b1a3f7a6c9fe5001b84bedf9646
+SHA1: f2d3ae353517819a526f41dfdc6eb89903dc0abe
+SHA256: e44baca470a396c76930454d6956aee248dfabba8d07279f6c5de48786159fca
+Section: mail
+Priority: optional
+Description: Zimbra Mailbox Service Configuration
+
+Package: zimbra-mbox-service
+Version: 8.8.15.1634917408-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 9
+Depends: zimbra-store-components, zimbra-common-mbox-conf (>= 8.8.15), zimbra-common-mbox-db (>= 8.8.15), zimbra-common-mbox-native-lib (>= 8.8.15), zimbra-common-mbox-conf-msgs (>= 8.8.15), zimbra-common-mbox-conf-rights (>= 8.8.15), zimbra-common-mbox-conf-attrs (>= 8.8.15), zimbra-common-mbox-docs (>= 8.8.15), zimbra-mbox-war (>= 8.8.15.1634917408-1.u20), zimbra-mbox-conf (>= 8.8.15.1597662783-1.u20), zimbra-common-core-jar (>= 8.8.15.1634917408-1.u20)
+Filename: ./zimbra-mbox-service_8.8.15.1634917408-1.u20_amd64.deb
+Size: 1248
+MD5sum: 86226e409a2ea5b6d66800168eae2afc
+SHA1: 4bd512019703f5e8b482d15a7583dafea3d669f4
+SHA256: 688e5c3ab6b760b9ca79d9b2bb50bf3a6b5e0d744d59d7cb7012530f5592b466
+Section: mail
+Priority: optional
+Description: Zimbra Mailbox Service
+
+Package: zimbra-mbox-store-libs
+Version: 8.8.15.1626439528-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 39944
+Depends: zimbra-store-components
+Replaces: zimbra-store
+Filename: ./zimbra-mbox-store-libs_8.8.15.1626439528-1.u20_amd64.deb
+Size: 35236876
+MD5sum: 403527aa8bd5dc7e87a8173d66cabc69
+SHA1: 6393fa02300c86e023563545876698250ad1eb57
+SHA256: 62abba2c482b1c68d626dd32170cb4133fd44bb50b5b26b5ef5e124bfa75d9b1
+Section: mail
+Priority: optional
+Description: Replace zimbra store libs
+
+Package: zimbra-mbox-war
+Version: 8.8.15.1634917408-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 28610
+Depends: zimbra-store-components
+Replaces: zimbra-store
+Filename: ./zimbra-mbox-war_8.8.15.1634917408-1.u20_amd64.deb
+Size: 26101036
+MD5sum: 0ed65a2d89b8159bfc6072165ad1b2db
+SHA1: a0a2d9d0e364c821a757af9709ba5c5611835336
+SHA256: 83c74908c1929c068db60f158957cdbb879d0b182924f432facabd1f406b5876
+Section: mail
+Priority: optional
+Description: Zimbra Mailbox Service War
+
+Package: zimbra-mbox-webclient-war
+Version: 8.8.15.1635813854-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 150813
+Depends: zimbra-store-components
+Replaces: zimbra-store
+Filename: ./zimbra-mbox-webclient-war_8.8.15.1635813854-1.u20_amd64.deb
+Size: 21740024
+MD5sum: faf0752dba8748d101f924ea6473d9cd
+SHA1: 4f58d46f990076d6675da1fb08bf12421c20becd
+SHA256: 6c6d33525313396f27d37448a0b820aaa8d3878aaa7a813f6ed89121e4df2ff8
+Section: mail
+Priority: optional
+Description: Zimbra WebClient War
+
+Package: zimbra-mta
+Version: 8.8.15.GA.4179.UBUNTU20.64
+Architecture: amd64
+Maintainer: build@zimbra.com
+Depends: zimbra-core, zimbra-mta-components
+Conflicts: mail-transport-agent
+Replaces: mail-transport-agent
+Provides: mail-transport-agent
+Filename: ./zimbra-mta_8.8.15.GA.4179.UBUNTU20.64_amd64.deb
+Size: 5188
+MD5sum: bddfb54cece70e9d3180057353d98631
+SHA1: 2112d07ee72521727555d5469626478a6ce0e429
+SHA256: d2b9b83ec3bb6d3e12500bf22d8055841cd9824f01fa1ae985fb822b15e840c8
+Section: Mail
+Priority: optional
+Description: Best email money can buy
+
+Package: zimbra-proxy
+Version: 8.8.15.GA.4179.UBUNTU20.64
+Architecture: amd64
+Maintainer: build@zimbra.com
+Depends: zimbra-core, zimbra-proxy-components, zimbra-memcached
+Filename: ./zimbra-proxy_8.8.15.GA.4179.UBUNTU20.64_amd64.deb
+Size: 13788
+MD5sum: 571d99c402b5f5f080a2e7db51d281c1
+SHA1: 9c87770d6fe577ed1b9d166dbcf60d7bde44995e
+SHA256: 64c4c61c0de136a3f73f26920e98d387085a39473d42956b2eef9873741676e4
+Section: Mail
+Priority: optional
+Description: Best email money can buy
+
+Package: zimbra-snmp
+Version: 8.8.15.GA.4179.UBUNTU20.64
+Architecture: amd64
+Maintainer: build@zimbra.com
+Depends: zimbra-core, zimbra-snmp-components
+Filename: ./zimbra-snmp_8.8.15.GA.4179.UBUNTU20.64_amd64.deb
+Size: 3076
+MD5sum: 103e7f4aa59b90584646e3816ec8f765
+SHA1: dc8cc0ac23c57731ce8286144db01c235e0f8c0e
+SHA256: c300de2c6ec29365cbb3c8d9bab2a98dcdc9dcb325b95183f6dbf4adf2e411dd
+Section: Mail
+Priority: optional
+Description: Best email money can buy
+
+Package: zimbra-spell
+Version: 8.8.15.GA.4179.UBUNTU20.64
+Architecture: amd64
+Maintainer: build@zimbra.com
+Depends: zimbra-core, zimbra-spell-components
+Filename: ./zimbra-spell_8.8.15.GA.4179.UBUNTU20.64_amd64.deb
+Size: 3296
+MD5sum: 264af62492c7aad0c295817ca5e71ef4
+SHA1: 4e624fcc03a8e0c74233c6593e4a94accc852d21
+SHA256: 717118145d27f69628f7db6e6a009b28033128957527fa1710cfe07f445dbd78
+Section: Mail
+Priority: optional
+Description: Best email money can buy
+
+Package: zimbra-store
+Version: 8.8.15.GA.4179.UBUNTU20.64
+Architecture: amd64
+Maintainer: build@zimbra.com
+Depends: zimbra-core, zimbra-store-components, zimbra-jetty-distribution (>= 9.4.18.v20190429-2.u20), zimbra-mbox-store-libs, zimbra-mbox-conf, zimbra-mbox-admin-console-war, zimbra-mbox-war, zimbra-mbox-webclient-war, zimbra-mbox-service
+Filename: ./zimbra-store_8.8.15.GA.4179.UBUNTU20.64_amd64.deb
+Size: 60703024
+MD5sum: 7fa9a8d8ce0258b198d022a0e58e28c8
+SHA1: a447cfacc6a9a5c7cd7f69530837de49979fdebd
+SHA256: acf78060dd03b46e2c237f2338b73ad3395ced97ee7f3d0e5f06c3d230a046e3
+Section: Mail
+Priority: optional
+Description: Best email money can buy
+
+Package: zimbra-timezone-data
+Version: 2.0.1.1618576642-1.u20
+Architecture: amd64
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Installed-Size: 928
+Depends: zimbra-core-components
+Replaces: zimbra-core, zimbra-store
+Filename: ./zimbra-timezone-data_2.0.1.1618576642-1.u20_amd64.deb
+Size: 48864
+MD5sum: 39c43eca63c6619c9feb4edde8249c17
+SHA1: 183bbf4b964271d52412274242c03287e95eac28
+SHA256: b84bd896cc665aef570b543e86852167be6491e961a3508bb460a948ab08b770
+Section: mail
+Priority: optional
+Description: Zimbra Timezone Data
+

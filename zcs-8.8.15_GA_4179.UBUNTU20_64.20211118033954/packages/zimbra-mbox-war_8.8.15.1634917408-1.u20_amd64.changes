@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-mbox-war
+Binary: zimbra-mbox-war
+Architecture: amd64
+Version: 8.8.15.1634917408-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-mbox-war - Zimbra Mailbox Service War
+Changes:
+ zimbra-mbox-war (8.8.15.1634917408-1.u20) stable; urgency=medium
+ .
+   * Release - 8.8.15.1634917408
+Checksums-Sha1:
+ 1483f8a6dde9a8beea57b63ad16e5bbdbe16807b 5364 zimbra-mbox-war_8.8.15.1634917408-1.u20_amd64.buildinfo
+ a0a2d9d0e364c821a757af9709ba5c5611835336 26101036 zimbra-mbox-war_8.8.15.1634917408-1.u20_amd64.deb
+Checksums-Sha256:
+ f6de3a623604eee98340f74272da9ba70b0d230bc23829f708aec08daae855ca 5364 zimbra-mbox-war_8.8.15.1634917408-1.u20_amd64.buildinfo
+ 83c74908c1929c068db60f158957cdbb879d0b182924f432facabd1f406b5876 26101036 zimbra-mbox-war_8.8.15.1634917408-1.u20_amd64.deb
+Files:
+ 1ba668057c4033c427c475e754998f9e 5364 mail optional zimbra-mbox-war_8.8.15.1634917408-1.u20_amd64.buildinfo
+ 0ed65a2d89b8159bfc6072165ad1b2db 26101036 mail optional zimbra-mbox-war_8.8.15.1634917408-1.u20_amd64.deb

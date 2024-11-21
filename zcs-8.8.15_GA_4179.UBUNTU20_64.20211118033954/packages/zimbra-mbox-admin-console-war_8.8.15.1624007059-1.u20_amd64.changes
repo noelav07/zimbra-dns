@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-mbox-admin-console-war
+Binary: zimbra-mbox-admin-console-war
+Architecture: amd64
+Version: 8.8.15.1624007059-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-mbox-admin-console-war - Zimbra Admin Console War
+Changes:
+ zimbra-mbox-admin-console-war (8.8.15.1624007059-1.u20) stable; urgency=medium
+ .
+   * Release - 8.8.15.1624007059
+Checksums-Sha1:
+ 540b637a587c1393dca2832cadc21da7efa01c2f 5434 zimbra-mbox-admin-console-war_8.8.15.1624007059-1.u20_amd64.buildinfo
+ e9a32795e56e4548c5f40d8498f63281b807c006 10148260 zimbra-mbox-admin-console-war_8.8.15.1624007059-1.u20_amd64.deb
+Checksums-Sha256:
+ 23c00bacc9b9d8c5394db0fe9baecc5df1ba475076774a71d28a44815bebef97 5434 zimbra-mbox-admin-console-war_8.8.15.1624007059-1.u20_amd64.buildinfo
+ 0cdf2d58eed137c63943560f0f7e53cc4012bd67809093944e05ed75a8715e73 10148260 zimbra-mbox-admin-console-war_8.8.15.1624007059-1.u20_amd64.deb
+Files:
+ 3713d077b056897928765fed514c12cf 5434 mail optional zimbra-mbox-admin-console-war_8.8.15.1624007059-1.u20_amd64.buildinfo
+ 0855e8e381d5c30a61dd184d9dafe335 10148260 mail optional zimbra-mbox-admin-console-war_8.8.15.1624007059-1.u20_amd64.deb

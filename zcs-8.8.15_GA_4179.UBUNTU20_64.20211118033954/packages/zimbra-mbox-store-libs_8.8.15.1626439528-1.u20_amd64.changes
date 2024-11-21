@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-mbox-store-libs
+Binary: zimbra-mbox-store-libs
+Architecture: amd64
+Version: 8.8.15.1626439528-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-mbox-store-libs - Replace zimbra store libs
+Changes:
+ zimbra-mbox-store-libs (8.8.15.1626439528-1.u20) stable; urgency=medium
+ .
+   * Release - 8.8.15.1626439528
+Checksums-Sha1:
+ 9956f347b0132523a653b7c4b34c3fd7397b8017 5399 zimbra-mbox-store-libs_8.8.15.1626439528-1.u20_amd64.buildinfo
+ 6393fa02300c86e023563545876698250ad1eb57 35236876 zimbra-mbox-store-libs_8.8.15.1626439528-1.u20_amd64.deb
+Checksums-Sha256:
+ 1b6ca2f40feb6aed1c1d01d3572e0dcc79008dccb37ed46f20800f8de254b1cb 5399 zimbra-mbox-store-libs_8.8.15.1626439528-1.u20_amd64.buildinfo
+ 62abba2c482b1c68d626dd32170cb4133fd44bb50b5b26b5ef5e124bfa75d9b1 35236876 zimbra-mbox-store-libs_8.8.15.1626439528-1.u20_amd64.deb
+Files:
+ 21943f0cc918b9f0884c3c3b4fcc95a0 5399 mail optional zimbra-mbox-store-libs_8.8.15.1626439528-1.u20_amd64.buildinfo
+ 403527aa8bd5dc7e87a8173d66cabc69 35236876 mail optional zimbra-mbox-store-libs_8.8.15.1626439528-1.u20_amd64.deb

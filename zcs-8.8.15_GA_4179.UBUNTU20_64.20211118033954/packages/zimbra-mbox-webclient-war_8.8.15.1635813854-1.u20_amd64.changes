@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-mbox-webclient-war
+Binary: zimbra-mbox-webclient-war
+Architecture: amd64
+Version: 8.8.15.1635813854-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-mbox-webclient-war - Zimbra WebClient War
+Changes:
+ zimbra-mbox-webclient-war (8.8.15.1635813854-1.u20) stable; urgency=medium
+ .
+   * Release - 8.8.15.1635813854
+Checksums-Sha1:
+ 52c4c77506664fd5d1fa1864a36b965b86292b3f 5414 zimbra-mbox-webclient-war_8.8.15.1635813854-1.u20_amd64.buildinfo
+ 4f58d46f990076d6675da1fb08bf12421c20becd 21740024 zimbra-mbox-webclient-war_8.8.15.1635813854-1.u20_amd64.deb
+Checksums-Sha256:
+ d63a790ab86ebad86e40b7416909bdbd3e83e767417f83a203b78059ddae9098 5414 zimbra-mbox-webclient-war_8.8.15.1635813854-1.u20_amd64.buildinfo
+ 6c6d33525313396f27d37448a0b820aaa8d3878aaa7a813f6ed89121e4df2ff8 21740024 zimbra-mbox-webclient-war_8.8.15.1635813854-1.u20_amd64.deb
+Files:
+ b5f38eda1188fe4d62c9dcd496594381 5414 mail optional zimbra-mbox-webclient-war_8.8.15.1635813854-1.u20_amd64.buildinfo
+ faf0752dba8748d101f924ea6473d9cd 21740024 mail optional zimbra-mbox-webclient-war_8.8.15.1635813854-1.u20_amd64.deb

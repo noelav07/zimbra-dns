@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-common-mbox-docs
+Binary: zimbra-common-mbox-docs
+Architecture: amd64
+Version: 8.8.15.1552677786-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-common-mbox-docs - Zimbra Core Mailbox Docs
+Changes:
+ zimbra-common-mbox-docs (8.8.15.1552677786-1.u20) stable; urgency=medium
+ .
+   * Release - 8.8.15.1552677786
+Checksums-Sha1:
+ 79ce7b56fc417c2748302133878c3751de3cccf4 5398 zimbra-common-mbox-docs_8.8.15.1552677786-1.u20_amd64.buildinfo
+ 546b7ab48014e2939d3be59482785c30b467168a 225560 zimbra-common-mbox-docs_8.8.15.1552677786-1.u20_amd64.deb
+Checksums-Sha256:
+ 0d1ed3ce80680906f85a73e8beb59e90eecce8d22a25b7f5aa554faaf7ef7d6a 5398 zimbra-common-mbox-docs_8.8.15.1552677786-1.u20_amd64.buildinfo
+ 07f49e7db14159be99f53d89165a3299d2d8bfbde1ce4a92ba31fa504671dfb2 225560 zimbra-common-mbox-docs_8.8.15.1552677786-1.u20_amd64.deb
+Files:
+ b400818d78086cb404d07182026baff5 5398 mail optional zimbra-common-mbox-docs_8.8.15.1552677786-1.u20_amd64.buildinfo
+ 0198081a91f5d1af082f30897cbd6fb0 225560 mail optional zimbra-common-mbox-docs_8.8.15.1552677786-1.u20_amd64.deb

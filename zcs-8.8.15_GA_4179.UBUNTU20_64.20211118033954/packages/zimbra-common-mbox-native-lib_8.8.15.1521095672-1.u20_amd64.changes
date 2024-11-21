@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-common-mbox-native-lib
+Binary: zimbra-common-mbox-native-lib
+Architecture: amd64
+Version: 8.8.15.1521095672-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-common-mbox-native-lib - Zimbra Core Mailbox Native Libs
+Changes:
+ zimbra-common-mbox-native-lib (8.8.15.1521095672-1.u20) stable; urgency=medium
+ .
+   * Release - 8.8.15.1521095672
+Checksums-Sha1:
+ 9ea505c0e2b94e259a86639511622b1c5e38f6a0 29800 zimbra-common-mbox-native-lib-dbgsym_8.8.15.1521095672-1.u20_amd64.ddeb
+ 44a72f39faf0dc070cc576eaa4692190cf6900f4 5798 zimbra-common-mbox-native-lib_8.8.15.1521095672-1.u20_amd64.buildinfo
+ 018bd6535cce3536aacb708af6033e0868194379 5940 zimbra-common-mbox-native-lib_8.8.15.1521095672-1.u20_amd64.deb
+Checksums-Sha256:
+ 599609aff6d512bc042022730006372ec7169b7d1be8f20874268d0fe43df261 29800 zimbra-common-mbox-native-lib-dbgsym_8.8.15.1521095672-1.u20_amd64.ddeb
+ fe1c4d8e8e03d43b3e7473fd6fdbdb9958da7f867b4d5835bff564567ce9c8be 5798 zimbra-common-mbox-native-lib_8.8.15.1521095672-1.u20_amd64.buildinfo
+ 03f9032dd6afbfac457844d80f2fcc997457e3215ccfcf31eb0d31455dd951f6 5940 zimbra-common-mbox-native-lib_8.8.15.1521095672-1.u20_amd64.deb
+Files:
+ 9228be65c1b3ef296c97677576e7e5d4 29800 debug optional zimbra-common-mbox-native-lib-dbgsym_8.8.15.1521095672-1.u20_amd64.ddeb
+ 0c500c5b91b42b6896c9dfa482d253c5 5798 mail optional zimbra-common-mbox-native-lib_8.8.15.1521095672-1.u20_amd64.buildinfo
+ 178d2e15415c278744b6cb8112b9556e 5940 mail optional zimbra-common-mbox-native-lib_8.8.15.1521095672-1.u20_amd64.deb

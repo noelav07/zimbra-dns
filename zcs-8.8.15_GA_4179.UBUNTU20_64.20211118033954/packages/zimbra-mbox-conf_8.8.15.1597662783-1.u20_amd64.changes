@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-mbox-conf
+Binary: zimbra-mbox-conf
+Architecture: amd64
+Version: 8.8.15.1597662783-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-mbox-conf - Zimbra Mailbox Service Configuration
+Changes:
+ zimbra-mbox-conf (8.8.15.1597662783-1.u20) stable; urgency=medium
+ .
+   * Release - 8.8.15.1597662783
+Checksums-Sha1:
+ 9c7b689217722dd08504f5b4948776f0ceab2df2 5360 zimbra-mbox-conf_8.8.15.1597662783-1.u20_amd64.buildinfo
+ f2d3ae353517819a526f41dfdc6eb89903dc0abe 29788 zimbra-mbox-conf_8.8.15.1597662783-1.u20_amd64.deb
+Checksums-Sha256:
+ a08d013c6bcf6aef2c0dc3fe6ca3425329780555bed8d7d19c2e7c08e22b8486 5360 zimbra-mbox-conf_8.8.15.1597662783-1.u20_amd64.buildinfo
+ e44baca470a396c76930454d6956aee248dfabba8d07279f6c5de48786159fca 29788 zimbra-mbox-conf_8.8.15.1597662783-1.u20_amd64.deb
+Files:
+ 0dd08372caeff8065c63f91e31adbac3 5360 mail optional zimbra-mbox-conf_8.8.15.1597662783-1.u20_amd64.buildinfo
+ cf601b1a3f7a6c9fe5001b84bedf9646 29788 mail optional zimbra-mbox-conf_8.8.15.1597662783-1.u20_amd64.deb

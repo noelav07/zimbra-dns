@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-common-mbox-conf-rights
+Binary: zimbra-common-mbox-conf-rights
+Architecture: amd64
+Version: 8.8.15.1487328490-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-common-mbox-conf-rights - Zimbra Core Mailbox Rights Configuration
+Changes:
+ zimbra-common-mbox-conf-rights (8.8.15.1487328490-1.u20) stable; urgency=medium
+ .
+   * Release - 8.8.15.1487328490
+Checksums-Sha1:
+ 8db610ca9681de2c437a0cb6e40145224db30613 5430 zimbra-common-mbox-conf-rights_8.8.15.1487328490-1.u20_amd64.buildinfo
+ b1c1579f836bd095f7171f790aba9649c4602c61 20300 zimbra-common-mbox-conf-rights_8.8.15.1487328490-1.u20_amd64.deb
+Checksums-Sha256:
+ 0b9c15453fe2cdd0a5d297b44aa2aa83b252f5716bf85dfc47fd65b2391773fe 5430 zimbra-common-mbox-conf-rights_8.8.15.1487328490-1.u20_amd64.buildinfo
+ b9f78cb376107d9e94302ae9558904e5bb9931932e7c25d3ffb73946ff7ea72a 20300 zimbra-common-mbox-conf-rights_8.8.15.1487328490-1.u20_amd64.deb
+Files:
+ c3bbdde75aeb13d784147a7e9bc1650e 5430 mail optional zimbra-common-mbox-conf-rights_8.8.15.1487328490-1.u20_amd64.buildinfo
+ 2f7884a8574f46c9acf14aad4cc4b57a 20300 mail optional zimbra-common-mbox-conf-rights_8.8.15.1487328490-1.u20_amd64.deb
